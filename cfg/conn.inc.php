@@ -11,7 +11,7 @@ $conn = false;
 $hostname = "127.0.0.1\SQLX";
 $database = "prueba";
 $username = "sa";
-$password = "developer";
+$password = "d#v4l0p3r";
 
 try{
 	//Para MySQL:
